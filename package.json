@@ -1,0 +1,15 @@
+{
+  "name": "normalize-url",
+  "version": "0.0.0",
+  "description": "normalize an url",
+  "main": "normalize-url.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.13.4"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "David Björklund <david.bjorklund@gmail.com> (http://davidbjorklund.com/)",
+  "license": "MIT"
+}
